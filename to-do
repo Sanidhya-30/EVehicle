@@ -1,0 +1,9 @@
+1. Select and test code for proximity sensors
+2. Select and test code for LiDAR point cloud
+3. Test MavLink Commands for Vehicle
+5. Model test
+6. Train model for cones and add weights
+
+
+5. Create a MakeFile
+6. Optimise drive 
