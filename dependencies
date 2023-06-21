@@ -1,0 +1,17 @@
+SOFTWARE
+Python    3.10
+MavProxy  --   
+Yolo V5   -- 
+Opencv    --
+Numpy     --
+pip       --
+
+HARDWARE
+RP Lidar   A2
+PixHawk    2.8
+Sabertooth  
+
+
+FIRMWARE
+ROS Noetic jammy
+Ubuntu 20.04
